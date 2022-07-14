@@ -1,6 +1,6 @@
  def hi
    puts "Hello!"
-   emd
+   end
    
    # Result: hi()
    # Hello
