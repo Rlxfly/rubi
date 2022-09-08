@@ -8,3 +8,4 @@ else
 end
 
 # know lah
+# Keduanya akan bekerja ketika kedua variable true
