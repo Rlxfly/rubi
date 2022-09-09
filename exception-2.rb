@@ -13,6 +13,6 @@ begin
     bum = 100/0
 rescue ZeroDivisionError
     puts "Divission by zero error"
-    rescue TypeError
-        puts "Invalid type data"
+    rescue TypeError => err
+        puts err # biar tau apa yang error
 end
